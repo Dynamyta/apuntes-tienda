@@ -33,7 +33,7 @@
 | **Emisor térmico fluido Cointra Cosmos 500W WiFi** | `85338983` | **Fluido + Conectividad:** Alta inercia térmica combinada con control total por Smartphone. Permite programar y encender la calefacción antes de llegar a casa. Ideal para estancias pequeñas (hasta 5m²). |
 | **Emisor cerámico Equation Enki Serie D 500W blanco WiFi** | `96820338` | **Marca Propia / Cerámico + WiFi:** Máxima inercia térmica gracias a su bloque cerámico interno. El calor dura horas tras apagarlo. Control total por WiFi (App Enki). Ideal para uso prolongado en estancias pequeñas. |
 | **Radiador eléctrico Rointe Hera 500W (3 elementos)** | `95654249` | **Calidad Premium / Eficiencia:** Marca líder en calefacción eléctrica. Fabricado en aluminio de alta pureza con fluido térmico exclusivo para una difusión perfecta. Consumo optimizado y control digital. |
-| 🔗 **ENLACE DIRECTO CHUCO** | `WEB-MOVIL` | **[Pulsa aquí para abrir la guía interactiva en el móvil](https://github.com/Dynamyta/apuntes-tienda/blob/main/calefaccion.md)**. Ideal para refrescar los trucos de venta rápidamente a pie de pasillo. |
+| 🔗 **ENLACE DIRECTO ** | `WEB-MOVIL` | **[Pulsa aquí para abrir la guía interactiva en el móvil](https://github.com/Dynamyta/apuntes-tienda/blob/main/index.md)**. Ideal para refrescar los trucos de venta rápidamente a pie de pasillo. |
 
 ---
 
