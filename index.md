@@ -1,3 +1,14 @@
+<style>
+  table code {
+    color: #ff5722 !important; /* Cambia aquí el color (ej: naranja como tu botón) */
+    background-color: #f5f5f5 !important; /* Fondo gris claro para que contraste */
+    font-weight: bold !important;
+    font-size: 14px !important;
+  }
+</style>
+
+
+
 # Catálogo de Calefacción - Guía Comercial de Tienda
 
 ## 🔥 Sección 1: Estufas de Gas
