@@ -1,4 +1,4 @@
-# Catálogo de Calefacción - Guía Comercial de Tienda
+# Catálogo de Calefacción - Guía Comercial de Tienda.
 
 ## 🔥 Sección 1: Estufas de Gas
 
