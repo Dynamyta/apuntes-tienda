@@ -1,6 +1,6 @@
 <style>
   table code {
-    color: #ff5722 !important; /* Cambia aquí el color (ej: naranja como tu botón) */
+    color: #000000 !important; /* Cambia aquí el color (ej: naranja como tu botón) */
     background-color: #f5f5f5 !important; /* Fondo gris claro para que contraste */
     font-weight: bold !important;
     font-size: 14px !important;
